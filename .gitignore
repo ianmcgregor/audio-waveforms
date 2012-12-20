@@ -1,0 +1,63 @@
+#   OS
+
+._*
+.DS_Store
+.DS_Store?
+.AppleDouble
+Icon?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+
+#   VCS
+
+.svn
+*.orig
+!.gitinclude
+
+
+#   IDE
+
+.settings/
+.project
+user.properties
+.idea?
+.metadata/*
+lab/.metadata/*
+*.ignore
+*.sublime-*
+*~
+*.swp
+*.swo
+
+
+#   MEDIA
+
+build/public/assets/video/*
+build/public/assets/audio/*
+
+
+#   FLASH
+
+bin/
+bin-debug/
+bin-release/
+/source/flash/libs/*.swf
+RECOVER_*.fla
+.actionScriptProperties
+/source/flash/html-template/
+/build/public/history/
+/build/public/Main.html
+/build/public/playerProductInstall.swf
+/build/public/swfobject.js
+/build/public/fonts.html
+/build/public/fonts.swf
+
+
+#   BINARIES
+*.air
+*.pyc
+/source/flash/assets/compile/assets/
